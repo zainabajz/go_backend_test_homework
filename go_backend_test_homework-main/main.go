@@ -10,4 +10,5 @@ func Add(a, b int) int {
 
 func main() {
 	fmt.Println("Я домашка")
+	fmt.Println(Add(3, 4))
 }
